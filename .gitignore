@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python cache files (created automatically when you run code)
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+venv/
+
+# Editor settings
+.vscode/
+
